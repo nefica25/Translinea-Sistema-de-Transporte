@@ -1,0 +1,66 @@
+D:\TranslineaN\TranslineaN\bin\Debug\TranslineaN.exe.config
+D:\TranslineaN\TranslineaN\bin\Debug\TranslineaN.exe
+D:\TranslineaN\TranslineaN\bin\Debug\TranslineaN.pdb
+D:\TranslineaN\TranslineaN\bin\Debug\System.Data.SqlServerCe.dll
+D:\TranslineaN\TranslineaN\bin\Debug\System.Data.SqlServerCe.Entity.dll
+D:\TranslineaN\TranslineaN\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+D:\TranslineaN\TranslineaN\bin\Debug\ES\System.Data.SqlServerCe.Entity.resources.dll
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.Form1.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmAcceso.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmAgencia.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmAsignarBus.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmBackup.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmCiudadRecorrido.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmClientes.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmClientesAlterno.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmClientesBuscar.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmHora.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmRemesas.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmRuta.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmSucursal.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetes.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmMenu.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetesBuscar.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetesDevolucion.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetesPlanilla.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetesTraslados.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmVehiculo.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.Properties.Resources.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmRutaProceso.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.CierreCaja.resources
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.csproj.GenerateResource.Cache
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.exe
+D:\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.pdb
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\bin\Debug\TranslineaN.exe.config
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.exe
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.pdb
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\bin\Debug\TranslineaN.exe
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\bin\Debug\TranslineaN.pdb
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.csprojResolveAssemblyReference.cache
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.Form1.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmAcceso.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmAgencia.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmAsignarBus.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmBackup.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmCiudadRecorrido.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmClientes.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmClientesAlterno.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmClientesBuscar.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmHora.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmRemesas.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmRuta.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmSucursal.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetes.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmMenu.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetesBuscar.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetesDevolucion.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetesPlanilla.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmTiquetesTraslados.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmVehiculo.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.Properties.Resources.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.frmRutaProceso.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.CierreCaja.resources
+E:\Tecnologia\Porgramacion\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.csproj.GenerateResource.Cache
+E:\Desarrollos .Net\Escritorio\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\bin\Debug\TranslineaN.exe.config
+E:\Desarrollos .Net\Escritorio\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.exe
+E:\Desarrollos .Net\Escritorio\14-Abril-2013, 02.22pm\TranslineaN\TranslineaN\obj\x86\Debug\TranslineaN.pdb
